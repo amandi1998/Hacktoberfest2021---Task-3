@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Task3{
   public static void main(String[] args) {
     int x = 100 + 50;
